@@ -1,4 +1,4 @@
-public class DataTypes {
+public class DataTypes-02 {
 
 	public static void main(String[] args) {
 		
